@@ -5,7 +5,7 @@ This repository hosts the supplementary material for the paper:
 
 - Multi-Kernel Time Series Outlier Detection. (Under review).
 
-The repository contains our code, instructions to reproduce our experiments, and additional information about the algorithm. 
+The repository contains our code, and instructions to reproduce our experiments.
 
 We use publicly available data from the [UCR Time Series Classification Archive](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/).
 
@@ -15,7 +15,7 @@ We release our code with an AGPLv3 license. If you are using code from this repo
 Instructions for reproducing the experiments
 ----------------
 
-Follow the steps below to reproduce the results of TSOD. We give the random seeds, to ensure reproducibility. We do not share the source code of the competitors, which may be obtained from the respective sources, or by contacting the authors. We include our result file, for ease of viewing with `notebooks/BA.ipynb`.
+Follow the steps below to reproduce the results of MK-TSOD. We give the random seeds, to ensure reproducibility. We do not share the source code of the competitors, which may be obtained from the respective sources, or by contacting the authors. We include our result file, for ease of viewing with `notebooks/BA.ipynb`.
 
 1. Clone this repository.
 1. Obtain the data from UCR per instructions on their [webpage](https://www.cs.ucr.edu/%7Eeamonn/time_series_data_2018/).
